@@ -1,0 +1,15 @@
+{
+  "name": "chess_api",
+  "version": "1.0.0",
+  "description": "API Service for Chess Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adesh Shah",
+  "license": "ISC",
+  "dependencies": {
+    "chess.js": "^0.10.2",
+    "express": "^4.14.0"
+  }
+}
