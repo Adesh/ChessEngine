@@ -2,7 +2,7 @@ var express = require('express');
 var Chess   = require('chess.js').Chess;
 
 var app = express();
-var port = process.env.PORT || 8000;
+var port = process.env.PORT || 8080;
 
 // http://op12no2.me/toys/lozza
 var BUILD = "1.17";
